@@ -1,6 +1,7 @@
 # EduKonic 
 
-**Interactive classroom learning through real-world choices.**
+**Beyond the Survey. Into the Classroom.**
+**Interactive social-emotional learning through real-world choices, peer role-playing, and guided reflection.*
 
 EduKonic is a hackathon prototype from **CreatoEdu**, designed to help Pre-K–5 teachers guide collaborative, scenario-based activities and reflect on how students communicate, participate, and solve problems. The emphasis is on supporting different participation styles rather than labeling children.
 
