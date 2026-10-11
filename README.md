@@ -24,7 +24,7 @@ This project is a **static website**. There is no server, database, signup syste
 
 ### Live on GitHub Pages
 
-1. Visit the [published demo](https://YOUR-USERNAME.github.io/EduKonic/) after substituting the actual username.
+1. Visit the [published demo](https://creatoedu.github.io/EduKonic/) 
 2. Choose **Teacher Login** or **Student Login**. These are demo-mode entry buttons; no username/password authentication is implemented.
 3. Follow the steps below.
 
@@ -86,26 +86,6 @@ This project is a **static website**. There is no server, database, signup syste
 - **Not a diagnostic tool.** It does not assess, label, or rank children's personalities, abilities, or mental health.
 - **Do not enter identifiable information about real children.** This is a hackathon prototype, not a production-ready school data system.
 
-## How to publish using GitHub Pages
-
-1. Sign in at [GitHub](https://github.com/) and choose **New repository**.
-2. Name it `EduKonic` and make the repository **Public**.
-3. Upload `index.html`, `README.md`, and `.nojekyll` to the **root** of the repository. Commit the files.
-4. Go to **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Set **Branch: main** and **Folder: / (root)**. Click **Save**.
-7. After GitHub finishes publishing, the demo should be at:
-
-   `https://YOUR-USERNAME.github.io/EduKonic/`
-
-8. Open the URL on a phone and laptop to check that the page loads and the buttons work.
-9. Replace the placeholder link near the top of this README with the actual URL and commit the update.
-
-> Repository naming and capitalization must match the URL. If the project repository is named differently, substitute its exact name.
-
-## Add EduKonic to your CreatoEdu WordPress site
-
-In the WordPress editor, add a **Buttons** block, label it **Try EduKonic**, and paste the GitHub Pages URL into the button's link setting. Alternatively, add a text link using the same URL. You may set it to open in a new tab so visitors can return to CreatoEdu easily.
 
 ## Project structure
 
@@ -113,7 +93,6 @@ In the WordPress editor, add a **Buttons** block, label it **Try EduKonic**, and
 EduKonic/
 ├── index.html     # Entire working browser prototype
 ├── README.md      # Project, demo, and deployment instructions
-└── .nojekyll      # Direct static-file deployment on GitHub Pages
 ```
 
 ## Next steps after the hackathon
