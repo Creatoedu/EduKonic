@@ -6,11 +6,8 @@ EduKonic is a hackathon prototype from **CreatoEdu**, designed to help Pre-K–5
 
 ## Try the live demo
 
-After enabling GitHub Pages, replace the address below with your published URL:
+**[Launch EduKonic](https://creatoedu.github.io/EduKonic/)**
 
-**[Launch EduKonic](https://YOUR-USERNAME.github.io/EduKonic/)**
-
-> Replace `YOUR-USERNAME` with your GitHub username. This placeholder is **not yet a live link**.
 
 ## Technology
 
